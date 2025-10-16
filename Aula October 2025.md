@@ -36,5 +36,6 @@ Escrita
 estrutura
 
 AI
+https://playwright.dev/docs/release-notes#version-156
 versão mais recente
 VSCode apenas (versão mais recente)
